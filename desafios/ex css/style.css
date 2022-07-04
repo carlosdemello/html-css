@@ -1,0 +1,82 @@
+@font-face {
+    font-family: "love";
+    src: url('digital\ geometric\ bold.ttf') ;
+}
+:root {
+    --fonte-android:"love";
+}
+    
+
+#principal  {
+    text-align: center;
+    
+    
+
+}
+p {
+    text-align: center;
+    padding: 10px;
+    
+    
+}
+
+
+#Menu {
+    padding: 0;
+    
+}
+#Menu li {
+    display: inline;
+    color: fff;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 10px 10px;
+    padding: 5px;
+    
+}
+#Menu li:hover {
+    background-color:#4E935B;
+}
+header{
+    background-image: linear-gradient(to top, #152c15, #3A6F3F);
+    color: white;
+}
+#segundo{
+    font-family:var(--fonte-android);
+    text-align: center;
+}
+main{
+    padding: 10px 10px 10px 10px;
+    margin: 10px 211px 10px 211px;
+    background-color: white;
+    text-indent: 10px;
+    box-shadow: 10px 10px 10px 10px;
+}
+strong{
+    color: #ca1d1d;
+}
+#outro{
+    display: 
+   inline-block;
+}
+video{
+    position: 10px 10px 10px 10px;
+}
+footer{
+    padding: 10px 10px 10px 10px;
+    margin: 0px 0px 0px 0px;
+    background-color: #ca1d1d;
+}
+nav{
+    padding: 17px 15px 10px 117px;
+    margin: 10px 14px 80px 17px;
+    background-color: #4E935B;
+}
+#imagen{
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 0px;
+}
+    
+p {
+    font-family: var(--fonte-android);
+}
